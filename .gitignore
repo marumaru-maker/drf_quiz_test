@@ -1,0 +1,12 @@
+## 여기에 적은 내용은 git 에 배포되지 않음
+
+__pycache__/
+*.py[cod]
+
+.Python
+venv/
+
+db.sqlite3
+.DS_Store
+
+.vscode/
